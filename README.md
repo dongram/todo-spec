@@ -1,11 +1,11 @@
 # SPEC
 - Page 기반의 todo 와 Ajax 기반의 todo 로 구분해서 진행
 
-## Page
-### ACTION
+### Page
+#### ACTION
 
-# Ajax SPEC
-### API 
+### Ajax
+#### API 
 - /api/createTodo.json
 - /api/updateTodo.json
 - /api/readTodoList.json
